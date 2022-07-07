@@ -2,7 +2,7 @@ import folium
 import pandas as pd
 from geopy import distance
 
-df=pd.read_csv('.\File\class.csv')
+df=pd.read_csv('./File/class.csv')
 
 
 #Generate map for added places
@@ -29,8 +29,8 @@ def map_generator(lis):
     lis1=lis[:-1]
     last=lis[-1]
 
-    file=open(r'.\File\Edited_South.txt','r')
-    w_file=open(r'.\File\writed.geojson','r+')
+    file=open(r'./File/Edited_South.txt','r')
+    w_file=open(r'./File/writed.geojson','r+')
     w_file.truncate()
     w_file.write('{"type": "FeatureCollection","crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },"features": [')
     for i in file.readlines():
@@ -38,7 +38,7 @@ def map_generator(lis):
             if f'"ac_name":"{j}"' in i:
                 w_file.write(i+',')   
 
-    file=open(r'.\File\Edited_South.txt','r')
+    file=open(r'./File/Edited_South.txt','r')
     for i in file.readlines():
         if f'"ac_name":"{last}"' in i:
             w_file.write(i)
@@ -48,7 +48,7 @@ def map_generator(lis):
     w_file.close()
 
 
-    geojson=r'.\File\writed.geojson'
+    geojson=r'./File/writed.geojson'
     g=folium.GeoJson(geojson).add_to(area)
     folium.GeoJsonTooltip(fields=['ac_name']).add_to(g)
 
@@ -59,7 +59,7 @@ def map_generator(lis):
 #Mark the marker in added places
 def map_for_marker():
     area=folium.Map(location=[15.36855162114983, 77.64474715878777],zoom_start=5)
-    geojson=r'.\File\writed.geojson'
+    geojson=r'./File/writed.geojson'
     g=folium.GeoJson(geojson).add_to(area)
     folium.GeoJsonTooltip(fields=['ac_name']).add_to(g)
     return area

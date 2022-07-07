@@ -3,9 +3,9 @@ import pandas as pd
 #create data frame for added places
 def Create_Data_Frame():
     lis=pd.DataFrame(columns=['city'])
-    lis.to_csv('.\File\lis.csv',index=False)
+    lis.to_csv('./File.lis.csv',index=False)
 
-lis=pd.read_csv('.\File\lis.csv')
+lis=pd.read_csv('./File/lis.csv')
 
 
 #Add new place in new row
@@ -17,11 +17,11 @@ def add_place(place):
 
     lis.loc[idx,'city']=place
     lisst=lis['city']
-    lisst.to_csv('.\File\lis.csv',index=False)
+    lisst.to_csv('./File/lis.csv',index=False)
 
 #Get all added places
 def get_city():
-    lis=pd.read_csv('.\File\lis.csv')
+    lis=pd.read_csv('./File/lis.csv')
     liss=set(lis['city'].to_list())
     liss=list(liss)
     return liss
