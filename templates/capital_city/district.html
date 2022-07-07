@@ -1,0 +1,174 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="{% static 'capital_city\css\district.css' %}">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+
+    <head>
+        <title>
+            Best Place
+        </title>
+        
+    </head>
+
+    <body  background="{% static 'capital_city\Images\vintage-1.jpg' %}" >
+
+
+        <div class="main">
+            <input type="checkbox" id="btn" hidden>
+            <label for="btn" class="menu-btn">
+              <i class="fas fa-bars"></i>
+              <i class="fas fa-times"></i>
+            </label>
+            <nav id="sidebar">
+              <div class="title"> Best City </div>
+      <ul class="list-items">
+      <li><a href="{% url 'home' %}"><i class="fas fa-home"></i>Home</a></li>
+      <li><a target="_blank" href="https://senthilvadivel-20.github.io/Portfolio/"><i class="fas fa-user"></i>About us</a></li>
+        <li><a target="_blank" href="mailto:senthilsubramaniyam20@gmai.com"><i class="fas fa-envelope"></i>Contact us</a></li>
+    
+        <div class="icons">
+            <a target="_blanck" href="https://www.linkedin.com/in/senthilsubramaniyam20"><i class="fab fa-linkedin"></i></a>
+            <a target="_blanck" href="https://twitter.com/the_senthil_"><i class="fab fa-twitter"></i></a>
+            <a target="_blanck" href="https://github.com/Senthilvadivel-20"><i class="fab fa-github"></i></a>
+            <a href="#"><i class="fab fa-youtube"></i></a>
+         
+               </div>
+
+            <div class="message">
+                <p>Developed By Senthil</p>
+            </div>
+      </ul>
+      </nav>
+          </div>
+
+
+
+        <h1>
+            Capital City Locator <br><br>
+        </h1>
+        
+            <form action="{% url 'add_district' %}">
+                
+                <label for="District">Search Your District Here!.....<i class="fas fa-search-location"></i></label><br><br>
+                <select name="District" id="District">
+                    <option value="Ariyalur">Ariyalur</option>
+                    <option value="Chengalpattu">Chengalpattu</option>
+                    <option value="Chennai">Chennai</option>
+                    <option value="Coimbatore">Coimbatore</option>
+                    <option value="Cuddalore">Cuddalore</option>
+                    <option value="Dharmapuri">Dharmapuri</option>
+                    <option value="Dindgul">Dindgul</option>
+                    <option value="Erode">Erode</option>
+                    <option value="Kallakurichi">Kallakurichi</option>
+                    <option value="Kanchipuram">Kanchipuram</option>
+                    <option value="Kanyakumari">Kanyakumari</option>
+                    <option value="Karur">Karur</option>
+                    <option value="Krishnagiri">Krishnagiri</option>
+                    <option value="Madurai">Madurai</option>
+                    <option value="Mayiladuthurai">Mayiladuthurai</option>
+                    <option value="Nagapattinam">Nagapattinam</option>
+                    <option value="Namakkal">Namakkal</option>
+                    <option value="Nilgiris">Nilgiris</option>
+                    <option value="Perambalur">Perambalur</option>
+                    <option value="Pudukkottai">Pudukkottai</option>
+                    <option value="Ramanathapuram">Ramanathapuram</option>
+                    <option value="Ranipet">Ranipet</option>
+                    <option value="Salem">Salem</option>
+                    <option value="Sivagangai">Sivagangai</option>
+                    <option value="Tenkasi">Tenkasi</option>
+                    <option value="Thanjavur">Thanjavur</option>
+                    <option value="Theni">Theni</option>
+                    <option value="Thiruvallur">Thiruvallur</option>
+                    <option value="Thiruvarur">Thiruvarur</option>
+                    <option value="Thoothukkudi">Thoothukkudi</option>
+                    <option value="Tiruchirappalli">Tiruchirappalli</option>
+                    <option value="Tirunelveli">Tirunelveli</option>
+                    <option value="Tirupattur">Tirupattur</option>
+                    <option value="Tiruppur">Tiruppur</option>
+                    <option value="Tiruvanamalai">Tiruvanamalai</option>
+                    <option value="Vellore">Vellore</option>
+                    <option value="Viluppuram">Viluppuram</option>
+                    <option value="Virudhunagar">Virudhunagar</option>
+                    <option value="Alappuzha">Alappuzha</option>
+                    <option value="Ernakulam">Ernakulam</option>
+                    <option value="Idukki">Idukki</option>
+                    <option value="idukki">idukki</option>
+                    <option value="Kannur">Kannur</option>
+                    <option value="Kasaragod">Kasaragod</option>
+                    <option value="Kollam">Kollam</option>
+                    <option value="Kottayam">Kottayam</option>
+                    <option value="Kozhikode">Kozhikode</option>
+                    <option value="Malappuram">Malappuram</option>
+                    <option value="Palakkad">Palakkad</option>
+                    <option value="Pathanamthitta">Pathanamthitta</option>
+                    <option value="Thiruvananthapuram">Thiruvananthapuram</option>
+                    <option value="Thrissur">Thrissur</option>
+                    <option value="wayanad">wayanad</option>
+                    <option value="Anantapur">Anantapur</option>
+                    <option value="Chittoor">Chittoor</option>
+                    <option value="East Godavari">East Godavari</option>
+                    <option value="Guntur">Guntur</option>
+                    <option value="Krishna">Krishna</option>
+                    <option value="Kurnool">Kurnool</option>
+                    <option value="Nellore">Nellore</option>
+                    <option value="Prakasam">Prakasam</option>
+                    <option value="Srikakulam">Srikakulam</option>
+                    <option value="Visakhapatnam">Visakhapatnam</option>
+                    <option value="Vizianagaram">Vizianagaram</option>
+                    <option value="West Godavari">West Godavari</option>
+                    <option value="YSR">YSR</option>
+                    <option value="Adilabad">Adilabad</option>
+                    <option value="Bhadradri Kothagudem">Bhadradri Kothagudem</option>
+                    <option value="Hyderabad">Hyderabad</option>
+                    <option value="Jagtial">Jagtial</option>
+                    <option value="Jangaon">Jangaon</option>
+                    <option value="Jayashankar Bhupalpally">Jayashankar Bhupalpally</option>
+                    <option value="Jogulamva gadwal">Jogulamva gadwal</option>
+                    <option value="Kamareddy">Kamareddy</option>
+                    <option value="Karimnagar">Karimnagar</option>
+                    <option value="Khammam">Khammam</option>
+                    <option value="Kumuram bheem">Kumuram bheem</option>
+                    <option value="Mahavuvabad">Mahavuvabad</option>
+                    <option value="Mahbubnagar">Mahbubnagar</option>
+                    <option value="Mancherial">Mancherial</option>
+                    <option value="Medak">Medak</option>
+                    <option value="Nalgonda">Nalgonda</option>
+                    <option value="Nirmal">Nirmal</option>
+                    <option value="Nizamabad">Nizamabad</option>
+                    <option value="Peddapalli">Peddapalli</option>
+                    <option value="Rajanna sircilla">Rajanna sircilla</option>
+                    <option value="Rajanna Sircilla">Rajanna Sircilla</option>
+                    <option value="Rangareddy">Rangareddy</option>
+                    <option value="Sangareddy">Sangareddy</option>
+                    <option value="Siddipet">Siddipet</option>
+                    <option value="Suryapet">Suryapet</option>
+                    <option value="Vikarabad">Vikarabad</option>
+                    <option value="Wanaparthy">Wanaparthy</option>
+                    <option value="Warangal">Warangal</option>
+                    <option value="Yadadri Bhuvanagiri">Yadadri Bhuvanagiri</option>
+                    <option value="Yanam">Yanam</option>
+                    <option value="Puducherry">Puducherry</option>
+                    <option value="Mahe">Mahe</option>
+                    <option value="Karaika">Karaika</option>
+                </select>
+                
+                <br><br>
+
+                <input class="district_submit" type="submit" value="Add District">
+            </form>
+        
+            <br>
+
+            <a href="{% url 'home' %}"><button class="back_to_home">Back to Home <i class="fas fa-home"></i></button></a>
+        
+
+
+    </body>
+</html>

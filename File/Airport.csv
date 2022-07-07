@@ -1,0 +1,40 @@
+﻿Airport,Name,lat,long,State
+Chennai,Chennai International Airport,12.99298906,80.17036432,Tamil Nadu
+Vellor,Vellor Domestic Airport,12.90565344,79.06569993,Tamil Nadu
+Hosur,Hosur Aerodrome,12.67129882,77.7661382,Tamil Nadu
+Salem,Salem Domestic Airport,11.7855285,78.05862958,Tamil Nadu
+NeyVeli ,Neyveli Airport,11.62832999,79.51865881,Tamil Nadu
+Coimbatore,Coimbatore International Airport,11.03118448,77.03947794,Tamil Nadu
+Thiruchirappali,Thiruchirappali International Airport,10.76201569,78.70892908,Tamil Nadu
+Thanjavur,thanjavur Airforce Station,10.72527463,79.09991206,Tamil Nadu
+Madurai,Madurai International Airport,9.840344921,78.08793686,Tamil Nadu
+Tuticorin,Tuticorin Domestic Airport,8.726323501,78.02541856,Tamil Nadu
+Puducherry,Puducherry Airport,11.96836132,79.81415256,Puducherry
+Kannur,Kannur International Airport,11.91704403,75.54848342,Kerala
+Kozhikode,kozhikode International Airport,11.1402225,75.95072256,Kerala
+Cochin,Cochin International Airport,10.15233751,76.39301952,Kerala
+Trivandrum,Trivandrum International Airport,8.483653677,76.91965042,Kerala
+Sobha city,Sobha City Helipad,10.55077128,76.18607071,Kerala
+Mysuru,Mysuru Airpord,12.23249975,76.65281837,Karnataka
+Bangaloru ,Bangaloru International Airport ,13.20105396,77.70950132,Karnataka
+Hassan,Hassan Airport,12.99688325,76.16484035,Karnataka
+Mangaluru ,Mangaluru International Airport,12.96087385,74.88994622,Karnataka
+Bellary,Bellary Airport Helipad,15.16760056,76.87560263,Karnataka
+Toranagallu,Jindal Vijaynagar airport,15.17845107,76.62818913,Karnataka
+Hubballi,Hubballi Airport,15.35981246,75.08687451,Karnataka
+Belagavi,Belagavi Domestic Airport,15.89349389,74.60550007,Karnataka
+Kulaburagi,Kulaburagi Airport,17.32167337,76.95119308,Karnataka
+Bidar,Bidar Airport,17.91300644,77.4906656,Karnataka
+Hydrabad,Rajiv Gandhi International Airport,17.23675865,78.42867858,Telangana
+Begumpet,Begumbet International Airport,17.45085155,78.47249407,Telangana
+Warangal,Warangal Domestic Airport,17.94793797,79.59464514,Telangana
+Ramagundam,Ramagundam Domestic Airport,18.71457564,79.39186514,Telangana
+Tirupati,Tirupati International Airport,13.68954102,79.55111189,Andhara Pradesh
+Puttaparthi,Sri Sathya Sai Airport,14.18251474,77.77022998,Andhara Pradesh
+Kadappa,Kadappa Airport,14.56564059,78.78097214,Andhara Pradesh
+Nellor,Nellor Heliport ,14.46992081,79.96749554,Andhara Pradesh
+Kurnool,Uyyalawada Narasimha Reddy Airport ,15.73943895,78.17844144,Andhara Pradesh
+Nagarjuna Sagar,Nagarjuna Sagar Airport,16.5575682,79.31250714,Andhara Pradesh
+Vijayawada,Vijayawada International Airport,16.52778965,80.790505,Andhara Pradesh
+Madhurapudi,Rajahmundry Airport,17.17666862,81.81528258,Andhara Pradesh
+Visakhapatnam,Visakhapatnam International Airport,17.7495728,83.2249484,Andhara Pradesh

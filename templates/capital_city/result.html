@@ -1,0 +1,98 @@
+{% load static %}
+
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+
+    <link rel="stylesheet" type="text/css" href="{% static 'capital_city\css\result.css' %}">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <script src="https://kit.fontawesome.com/09e39528d8.js" crossorigin="anonymous"></script>
+
+    
+        
+        <title>
+            Best City
+        </title>
+
+    </head>
+
+    <body background="{% static 'capital_city\Images\vintage.jpg' %}" >
+
+
+        <div class="main">
+            <input type="checkbox" id="btn" hidden>
+            <label for="btn" class="menu-btn">
+              <i class="fas fa-bars"></i>
+              <i class="fas fa-times"></i>
+            </label>
+            <nav id="sidebar">
+              <div class="title"> Best City </div>
+      <ul class="list-items">
+      <li><a href="{% url 'home'%}"><i class="fas fa-home"></i>Home</a></li>
+      <li><a target="_blank" href="https://senthilvadivel-20.github.io/Portfolio/"><i class="fas fa-user"></i>About us</a></li>
+    <li><a target="_blank" href="mailto:senthilsubramaniyam20@gmai.com"><i class="fas fa-envelope"></i>Contact us</a></li>
+          
+      <div class="icons">
+        <a target="_blanck" href="https://www.linkedin.com/in/senthilsubramaniyam20"><i class="fab fa-linkedin"></i></a>
+        <a target="_blanck" href="https://twitter.com/the_senthil_"><i class="fab fa-twitter"></i></a>
+        <a target="_blanck" href="https://github.com/Senthilvadivel-20"><i class="fab fa-github"></i></a>
+        <a href="#"><i class="fab fa-youtube"></i></a>
+                </div>
+
+            <div class="message">
+                <p>Developed By Senthil</p>
+            </div>
+            
+      </ul>
+      </nav>
+          </div>
+      
+        
+        <h1>Capital City Locator</h1>
+        
+        <h3 class="subtitle">Added places :</h3><br>
+           {{lis1}}<br><br>
+
+        <h3 class="place_title" >Suggested places & Hotspot places in the area:</h3><br>
+        
+        <div class="capital_city_city">
+        {% for i in city_list %}
+
+        <p><a class="search" target="_blank" href={{i.link}} style="color: black;"><i class="fas fa-city"></i> <strong> {{i.city}}</strong></a></p>
+            <ul>
+                
+                <li>District Name : {{i.dist}}</li>
+                <li>State Name : {{i.st}} </li>
+                <li>city type : {{i.typ}}</li>
+                <li>Population : {{i.ppl}} </li>
+                <li>It's Tire {{i.tir}} city</li>
+
+            </ul>
+
+        </div>
+        
+        
+        {% endfor %}
+
+        <br>
+        <a href="{% url 'home' %}"><button class="back_to_home">Back to Home <i class="fas fa-home"></i></button></a>
+
+        <br>
+
+        <h3 class="subtitle">Map View</h3>
+       
+        <div class="Map">
+
+            {{area|safe}}
+
+        </div>
+    
+        
+    </body>
+
+    
+</html>

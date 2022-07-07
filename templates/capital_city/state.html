@@ -1,0 +1,76 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+    <head>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="{% static 'capital_city\css\state.css' %}">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+    <link href='https://fonts.googleapis.com/css?family=Pacifico' rel='stylesheet' type='text/css'>
+
+
+
+        <title>
+            Best Place
+        </title>
+    </head>
+
+    <body  background="{% static 'capital_city\Images\vintage-1.jpg' %}" >
+
+
+        <div class="main">
+            <input type="checkbox" id="btn" hidden>
+            <label for="btn" class="menu-btn">
+              <i class="fas fa-bars"></i>
+              <i class="fas fa-times"></i>
+            </label>
+            <nav id="sidebar">
+              <div class="title"> Best City </div>
+      <ul class="list-items">
+    <li><a href="{% url 'home' %}"><i class="fas fa-home"></i>Home</a></li>
+    <li><a target="_blank" href="https://senthilvadivel-20.github.io/Portfolio/"><i class="fas fa-user"></i>About us</a></li>
+    <li><a target="_blank" href="mailto:senthilsubramaniyam20@gmai.com"><i class="fas fa-envelope"></i>Contact us</a></li>
+        
+      <div class="icons">
+        <a target="_blanck" href="https://www.linkedin.com/in/senthilsubramaniyam20"><i class="fab fa-linkedin"></i></a>
+        <a target="_blanck" href="https://twitter.com/the_senthil_"><i class="fab fa-twitter"></i></a>
+        <a target="_blanck" href="https://github.com/Senthilvadivel-20"><i class="fab fa-github"></i></a>
+        <a href="#"><i class="fab fa-youtube"></i></a>
+                </div>
+
+            <div class="message">
+                <p>Developed By Senthil</p>
+            </div>        
+      </ul>
+      </nav>
+          </div>
+    
+        <h1>
+            Add State <br><br>
+        </h1>
+        
+            <form action="{% url 'add_state' %}">
+                
+                <label for="State">Search Your State Here!.....<i class="fas fa-search-location"></i></label> <br><br>
+                <select name="State" id="State">
+                    <option value="Tamil Nadu">Tamil Nadu</option>
+                    <option value="Kerala">Kerala</option>
+                    <option value="Andhra Pradesh">Andhra Pradesh</option>
+                    <option value="Telangana">Telangana</option>
+                    <option value="Puducherry">Puducherry</option>
+                </select>
+
+                <br><br>
+
+                <input class="State_submit" type="submit" value="Add State">
+            </form>
+
+            <br>
+
+            <a href="{% url 'home' %}"><button class="back_to_home">Back to Home <i class="fas fa-home"></i></button></a>
+        
+    </body>
+</html>

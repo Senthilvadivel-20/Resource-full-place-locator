@@ -1,0 +1,697 @@
+No,Constituency,District,State,lat,long,Classifier,Population,Tire
+1,Ariyalur,Ariyalur,Tamil Nadu,11.07603595,79.11745538,TP,27822,4
+2,Jayankondam,Ariyalur,Tamil Nadu,11.21412214,79.36216337,TP,31268,4
+3,Chengalpattu,Chengalpattu,Tamil Nadu,12.6840886,79.9836371,M,62582,2
+4,Cheyyur,Chengalpattu,Tamil Nadu,12.3817023,79.84535682,,0,4
+5,Pallavaram,Chengalpattu,Tamil Nadu,12.9898157,80.10098654,,0,4
+6,Tambaram,Chengalpattu,Tamil Nadu,12.9299028,80.1118231,,0,4
+7,Thiruporur,Chengalpattu,Tamil Nadu,12.6754543,80.003164,TP,8299,4
+8,Anna Nagar,Chennai,Tamil Nadu,13.0872004,80.2164421,,0,4
+9,Chepauk,Chennai,Tamil Nadu,13.06363,80.2812779,,0,4
+10,Dr.Radhakrishnan Nagar,Chennai,Tamil Nadu,12.994345,80.2586907,,0,4
+11,Egmore,Chennai,Tamil Nadu,13.0728321,80.2576906,,0,4
+12,Harbour,Chennai,Tamil Nadu,13.08685129,80.29298645,,0,4
+13,Kolathur,Chennai,Tamil Nadu,13.1241127,80.2046276,TP,10254,4
+14,Mylapore,Chennai,Tamil Nadu,13.0316504,80.270099,,0,4
+15,peranamallur,Chennai,Tamil Nadu,13.1121242,80.245022,TP,5557,4
+16,Royapuram,Chennai,Tamil Nadu,13.1042898,80.29361253,,0,4
+17,Saidapet,Chennai,Tamil Nadu,13.020817,80.2239536,,0,4
+18,Thiru-Vi-Ka-Nagar,Chennai,Tamil Nadu,13.10847205,80.24814438,,0,4
+19,Thiyagarayanagar,Chennai,Tamil Nadu,13.04117222,80.23590722,,0,4
+20,Thousand Lights,Chennai,Tamil Nadu,13.0585155,80.2587833,,0,4
+21,Velachery,Chennai,Tamil Nadu,12.98016545,80.22285056,,0,4
+22,vilapakkam,Chennai,Tamil Nadu,13.1125875,80.2081378,TP,8052,4
+23,Virugambakkam,Chennai,Tamil Nadu,13.0475434,80.1922181,,0,4
+24,Shozhinganallur,Chennai,Tamil Nadu,13.0466496,80.1926004,,0,4
+25,Coimbatore North,Coimbatore,Tamil Nadu,11.15785585,76.96997866,UA,1461139,1
+26,Coimbatore South,Coimbatore,Tamil Nadu,10.9332703,76.86390503,,0,4
+27,Kavundampalayam,Coimbatore,Tamil Nadu,11.0451312,76.9474498,,0,4
+28,Kinathukadavu,Coimbatore,Tamil Nadu,10.8284322,77.0254459,TP,8651,4
+29,Mettuppalayam,Coimbatore,Tamil Nadu,11.2944013,76.94053891,M,66595,2
+30,Pollachi,Coimbatore,Tamil Nadu,10.67047305,77.00991259,UA,128458,1
+31,Singanallur,Coimbatore,Tamil Nadu,11.0028585,77.0234948,,0,4
+32,Sulur,Coimbatore,Tamil Nadu,10.98905365,77.10149711,,0,4
+33,Thondamuthur,Coimbatore,Tamil Nadu,11.01091,76.8726097,TP,9340,4
+34,Valparai,Coimbatore,Tamil Nadu,10.39017065,76.95120218,TP,95107,2
+35,Bhuvanagiri,Cuddalore,Tamil Nadu,11.4979403,79.66369723,TP,19879,4
+36,Chidambaram,Cuddalore,Tamil Nadu,11.41018075,79.67222018,UA,67795,2
+37,Cuddalore,Cuddalore,Tamil Nadu,11.7564329,79.7634644,M,158634,1
+38,Kattumannarkoil,Cuddalore,Tamil Nadu,11.260477,79.5757973,TP,22426,4
+39,Kurinjipadi,Cuddalore,Tamil Nadu,11.5825299,79.64998846,TP,22883,4
+40,Neyveli,Cuddalore,Tamil Nadu,11.535987,79.4824392,UA,138035,1
+41,Panruti,Cuddalore,Tamil Nadu,11.71597955,79.52096942,M,55346,2
+42,Tittakudi,Cuddalore,Tamil Nadu,11.442171,79.11525546,TP,20735,4
+43,Virudhachalam,Cuddalore,Tamil Nadu,11.54787515,79.38453998,M,60164,2
+44,Dharmapuri(TN),Dharmapuri,Tamil Nadu,12.09680475,78.19304301,M,64496,2
+45,Harur,Dharmapuri,Tamil Nadu,12.02388515,78.58505062,TP,21523,4
+46,Palacodu,Dharmapuri,Tamil Nadu,12.30209651,78.07409314,TP,18667,4
+47,Pappireddippatti,Dharmapuri,Tamil Nadu,11.91462395,78.36744973,TP,8583,4
+48,Pennagaram,Dharmapuri,Tamil Nadu,12.1125277,77.86772468,TP,15306,4
+49,Athoor,Dindgul,Tamil Nadu,10.29625675,77.82511298,TP,11744,4
+50,Dindigul,Dindgul,Tamil Nadu,10.3303299,78.06739791,M,196955,1
+51,Natham,Dindgul,Tamil Nadu,10.2689998,78.25071185,TP,22545,4
+52,Nilakkottai,Dindgul,Tamil Nadu,10.1582061,77.83223783,TP,19615,4
+53,Oddanchatram,Dindgul,Tamil Nadu,10.55103975,77.72741029,TP,24132,4
+54,Palani,Dindgul,Tamil Nadu,10.49781275,77.5004934,M,67231,2
+55,Vedasandur,Dindgul,Tamil Nadu,10.5990268,78.00167705,TP,10813,4
+56,Anthiyur,Erode,Tamil Nadu,11.7144457,77.56793866,TP,20071,4
+57,Bhavani,Erode,Tamil Nadu,11.4995804,77.64806738,UA,104646,1
+58,Bhavanisagar,Erode,Tamil Nadu,11.4701622,77.1153303,TP,4329,4
+59,Erode (East),Erode,Tamil Nadu,11.3692044,77.67662687,UA,389906,1
+60,Erode (West),Erode,Tamil Nadu,11.3692044,77.67662687,,0,4
+61,Gobichettipalayam,Erode,Tamil Nadu,11.4500997,77.44261878,M,55158,2
+62,Modakkurichi,Erode,Tamil Nadu,11.21193355,77.74620519,TP,10052,4
+63,Perundurai,Erode,Tamil Nadu,11.25909855,77.54606363,TP,16943,4
+64,Kallakurichi,Kallakurichi,Tamil Nadu,11.7406259,78.9637131,TP,36793,4
+65,Rishivandiyam,Kallakurichi,Tamil Nadu,11.8103289,79.1024189,,0,4
+66,Sankarapuram,Kallakurichi,Tamil Nadu,11.8555913,78.98579671,TP,12263,4
+67,Tirukkoyilur,Kallakurichi,Tamil Nadu,11.96371955,79.15013969,TP,27197,4
+68,Ulundurpettai,Kallakurichi,Tamil Nadu,11.73918475,79.29805582,TP,19258,4
+69,Alandur,Kanchipuram,Tamil Nadu,13.00282155,80.1719186,,0,4
+70,Kancheepuram,Kanchipuram,Tamil Nadu,12.87960515,79.70427615,UA,188733,1
+71,Madhuranthakam,Kanchipuram,Tamil Nadu,12.50488381,79.88743673,M,29059,4
+72,Sriperumbudur,Kanchipuram,Tamil Nadu,12.9201301,79.93910564,TP,16156,4
+73,Uthiramerur,Kanchipuram,Tamil Nadu,12.6494251,79.78057475,TP,23656,4
+74,Colachal,Kanyakumari,Tamil Nadu,8.1783591,77.2578485,,0,4
+75,Kanniyakumari,Kanyakumari,Tamil Nadu,8.0879641,77.5467414,TP,19739,4
+76,Killiyoor,Kanyakumari,Tamil Nadu,8.264619979,77.21541683,TP,19273,4
+77,Nagercoil,Kanyakumari,Tamil Nadu,8.1880471,77.4290492,M,208179,1
+78,Padmanabhapuram,Kanyakumari,Tamil Nadu,8.2515242,77.3245939,M,20075,4
+79,Vilavancode,Kanyakumari,Tamil Nadu,8.38291545,77.20550434,,0,4
+80,Aravakurichi,Karur,Tamil Nadu,10.85059245,77.92608431,TP,11519,4
+81,Karur,Karur,Tamil Nadu,10.9301522,78.08485455,UA,153365,1
+82,Krishnarayapuram,Karur,Tamil Nadu,10.8358561,78.35192901,TP,10533,4
+83,Kulithalai,Karur,Tamil Nadu,10.81545475,78.48812545,M,26161,4
+84,Bargur,Krishnagiri,Tamil Nadu,12.52931355,78.34094477,TP,12582,4
+85,Hosur,Krishnagiri,Tamil Nadu,12.7328844,77.8309478,M,84394,2
+86,Krishnagiri,Krishnagiri,Tamil Nadu,12.5188835,78.2206536,M,64587,2
+87,Thalli,Krishnagiri,Tamil Nadu,12.5867731,77.654183,,0,4
+88,Uthangarai,Krishnagiri,Tamil Nadu,12.2752798,78.49388291,TP,15443,4
+89,Veppanahalli,Krishnagiri,Tamil Nadu,12.69713754,78.19112784,,0,4
+90,Madurai Central,Madurai,Tamil Nadu,9.9261153,78.1140983,UA,1203095,1
+91,Madurai East,Madurai,Tamil Nadu,9.9090767,78.1345452,,0,4
+92,Madurai North,Madurai,Tamil Nadu,9.96404015,78.15887064,,0,4
+93,Madurai South,Madurai,Tamil Nadu,9.8696551,78.08651237,,0,4
+94,Madurai West,Madurai,Tamil Nadu,9.9261153,78.1140983,,0,4
+95,Melur,Madurai,Tamil Nadu,10.0858443,78.35602348,M,33881,4
+96,Sholavandan,Madurai,Tamil Nadu,10.022662,77.9653911,TP,21638,4
+97,Thirumangalam,Madurai,Tamil Nadu,9.79800945,77.92984262,M,43631,4
+98,Thiruparankundram,Madurai,Tamil Nadu,9.87632935,78.07119502,,0,4
+99,Usilampatti,Madurai,Tamil Nadu,9.9662267,77.82872511,M,30601,4
+100,Mayiladuthurai,Mayiladuthurai,Tamil Nadu,11.1551822,79.62739426,M,84505,2
+101,Poompuhar,Mayiladuthurai,Tamil Nadu,11.1452914,79.8537308,,0,4
+102,Sirkazhi,Mayiladuthurai,Tamil Nadu,11.2377794,79.7395752,M,32228,4
+103,Kilvelur,Nagapattinam,Tamil Nadu,10.68943295,79.71717928,TP,7425,4
+104,Nagapattinam,Nagapattinam,Tamil Nadu,10.8056276,79.82465978,M,93148,2
+105,Vedaranyam,Nagapattinam,Tamil Nadu,10.42794765,79.7489583,TP,31627,4
+106,Kumarapalayam,Namakkal,Tamil Nadu,11.38825245,77.77783762,TP,13938,4
+107,Namakkal,Namakkal,Tamil Nadu,11.28422485,78.16615284,M,53055,2
+108,Paramathi Velur,Namakkal,Tamil Nadu,11.18645365,77.95901998,TP,11124,4
+109,Rasipuram,Namakkal,Tamil Nadu,11.4911695,78.24117023,M,46330,4
+110,Senthamangalam,Namakkal,Tamil Nadu,11.2810706,78.23572656,TP,18116,4
+111,Tiruchengodu,Namakkal,Tamil Nadu,11.3786497,77.894945,M,80187,2
+112,Coonoor,Nilgiris,Tamil Nadu,11.32233095,76.77480204,UA,101490,1
+113,Gudalur,Nilgiris,Tamil Nadu,11.54463755,76.49039213,TP,43096,4
+114,Udhagamandalam,Nilgiris,Tamil Nadu,11.471119,76.69065831,M,93987,2
+115,Kunnam,Perambalur,Tamil Nadu,11.29427265,79.01449716,TP,7032,4
+116,Perambalur,Perambalur,Tamil Nadu,11.2287716,78.81825555,TP,37631,4
+117,Alangudi,Pudukkottai,Tamil Nadu,10.6011992,78.6804986,TP,10761,4
+118,Aranthangi,Pudukkottai,Tamil Nadu,10.1686451,78.9927909,M,34134,4
+119,Gandharvakottai,Pudukkottai,Tamil Nadu,10.57260185,79.01613756,,0,4
+120,Pudukkottai,Pudukkottai,Tamil Nadu,10.5,78.833333,M,109217,1
+121,Thirumayam,Pudukkottai,Tamil Nadu,10.24213115,78.77901119,,0,4
+122,Viralimalai,Pudukkottai,Tamil Nadu,10.6022657,78.5470947,,0,4
+123,Mudhukulathur,Ramanathapuram,Tamil Nadu,9.348262498,78.52106257,TP,13126,4
+124,Paramakudi,Ramanathapuram,Tamil Nadu,9.48671505,78.67227177,M,84321,2
+125,Ramanathapuram,Ramanathapuram,Tamil Nadu,9.3895523,78.85907072,M,62050,2
+126,Tiruvadanai,Ramanathapuram,Tamil Nadu,9.74192835,78.92002013,,0,4
+127,Arakkonam,Ranipet,Tamil Nadu,13.084101,79.6704084,M,78686,2
+128,Arcot,Ranipet,Tamil Nadu,12.7756012,79.37591931,UA,126671,1
+129,Ranipet,Ranipet,Tamil Nadu,12.9272641,79.3330076,,0,4
+130,Sholingur,Ranipet,Tamil Nadu,13.11203592,79.42632422,TP,26652,4
+131,Attur,Salem,Tamil Nadu,11.66371065,78.53355129,M,57519,2
+132,Edappadi,Salem,Tamil Nadu,11.63040055,77.84783944,M,48815,4
+133,Gangavalli,Salem,Tamil Nadu,11.44300175,78.56659347,TP,10457,4
+134,Mettur,Salem,Tamil Nadu,11.7928257,77.86486238,M,53633,2
+135,Omalur,Salem,Tamil Nadu,11.79783525,78.06862736,TP,13291,4
+136,Salem (North),Salem,Tamil Nadu,11.6612012,78.1602498,UA,751438,1
+137,Salem (South),Salem,Tamil Nadu,11.5808214,78.07371499,,0,4
+138,Salem (West),Salem,Tamil Nadu,11.67381845,78.10954883,,0,4
+139,Sankari,Salem,Tamil Nadu,11.5330743,77.9734001,TP,27454,4
+140,Veerapandi,Salem,Tamil Nadu,11.5882123,78.0768146,TP,14294,4
+141,Yercaud,Salem,Tamil Nadu,11.82453055,78.24682683,,0,4
+142,Karaikudi,Sivagangai,Tamil Nadu,10.0680908,78.7657007,UA,125717,1
+143,Manamadurai,Sivagangai,Tamil Nadu,9.72982585,78.41827693,TP,26253,4
+144,Sivaganga,Sivagangai,Tamil Nadu,9.851231,78.53047155,M,40220,4
+145,Tiruppattur,Sivagangai,Tamil Nadu,10.1095888,78.6014428,TP,23559,4
+146,Alangulam,Tenkasi,Tamil Nadu,8.85972595,77.4882218,CT,4696,4
+147,Kadayanallur,Tenkasi,Tamil Nadu,9.0842049,77.3461957,M,75612,2
+148,Sankarankovil,Tenkasi,Tamil Nadu,9.170073,77.535369,M,53606,2
+149,Tenkasi,Tenkasi,Tamil Nadu,9.0318958,77.36536125,M,63432,2
+150,Vasudevanallur,Tenkasi,Tamil Nadu,9.2419874,77.4101161,TP,19062,4
+151,Kumbakonam,Thanjavur,Tamil Nadu,10.9645549,79.37173036,UA,160767,1
+152,Orathanadu,Thanjavur,Tamil Nadu,10.57526625,79.29705957,TP,10172,4
+153,Papanasam,Thanjavur,Tamil Nadu,10.8604181,79.23581597,TP,16404,4
+154,Pattukkottai,Thanjavur,Tamil Nadu,10.4118033,79.33776653,M,65533,2
+155,Peravurani,Thanjavur,Tamil Nadu,10.2437795,79.19819128,TP,21045,4
+156,Thanjavur,Thanjavur,Tamil Nadu,10.7860267,79.1381497,M,215314,1
+157,Thiruvaiyaru,Thanjavur,Tamil Nadu,10.8671931,79.03436574,TP,14511,4
+158,Thiruvidaimarudur,Thanjavur,Tamil Nadu,11.0741829,79.47515937,TP,13765,4
+159,Andipatti,Theni,Tamil Nadu,9.8033616,77.52690132,TP,23002,4
+160,Bodinayakanur,Theni,Tamil Nadu,10.03291385,77.34981891,M,73410,2
+161,Cumbum,Theni,Tamil Nadu,9.7394057,77.2853013,,0,4
+162,Periyakulam,Theni,Tamil Nadu,10.1105106,77.59723205,M,42012,4
+163,Ambattur,Thiruvallur,Tamil Nadu,13.1128863,80.15986241,,0,4
+164,Avadi,Thiruvallur,Tamil Nadu,13.1254758,80.09409,,0,4
+165,Gummidipoondi,Thiruvallur,Tamil Nadu,13.4304882,80.08203491,TP,16196,4
+166,Madavaram,Thiruvallur,Tamil Nadu,13.14830588,80.22780062,,0,4
+167,Maduravoyal,Thiruvallur,Tamil Nadu,13.0601732,80.1665988,,0,4
+168,Ponneri,Thiruvallur,Tamil Nadu,13.37045745,80.24092105,TP,24309,4
+169,Poonamallee,Thiruvallur,Tamil Nadu,13.0768552,80.05106225,,0,4
+170,Thiruvallur,Thiruvallur,Tamil Nadu,13.13014755,79.92435386,M,45732,4
+171,Thiruvottiyur,Thiruvallur,Tamil Nadu,13.1722221,80.30458543,,0,4
+172,Tiruttani,Thiruvallur,Tamil Nadu,13.1596519,79.55053744,TP,38314,4
+173,Mannargudi,Thiruvarur,Tamil Nadu,10.59041075,79.45064302,M,61478,2
+174,Nannilam,Thiruvarur,Tamil Nadu,10.90723935,79.61277226,TP,11056,4
+175,Thiruthuraipoondi,Thiruvarur,Tamil Nadu,10.5083724,79.62727046,M,22905,4
+176,Thiruvarur,Thiruvarur,Tamil Nadu,10.73618605,79.63318659,M,56341,2
+177,Kovilpatti,Thoothukkudi,Tamil Nadu,9.0653134,77.83047762,M,87450,2
+178,Ottapidaram,Thoothukkudi,Tamil Nadu,8.95033045,78.01817697,,0,4
+179,Srivaikuntam,Thoothukkudi,Tamil Nadu,8.69618505,77.90224139,TP,16221,4
+180,Thoothukkudi,Thoothukkudi,Tamil Nadu,8.7567452,78.07975266,UA,243415,1
+181,Tiruchendur,Thoothukkudi,Tamil Nadu,8.5024607,78.05427596,UA,87101,2
+182,Vilathikulam,Thoothukkudi,Tamil Nadu,9.1681761,78.19969002,TP,13542,4
+183,Lalgudi,Tiruchirappalli,Tamil Nadu,10.96975815,78.86693326,TP,23405,4
+184,Manachanallur,Tiruchirappalli,Tamil Nadu,10.9943512,78.73133247,TP,21511,4
+185,Manapparai,Tiruchirappalli,Tamil Nadu,10.51991265,78.33514979,M,35770,4
+186,Musiri,Tiruchirappalli,Tamil Nadu,11.04970175,78.52803924,TP,27941,4
+187,Srirangam,Tiruchirappalli,Tamil Nadu,10.78789595,78.61240704,,0,4
+188,Thiruverumbur,Tiruchirappalli,Tamil Nadu,10.74039715,78.79061883,,0,4
+189,Thuraiyur,Tiruchirappalli,Tamil Nadu,11.23020275,78.56506952,M,31005,4
+190,Tiruchirappalli (East),Tiruchirappalli,Tamil Nadu,10.7888866,78.70381564,UA,866354,1
+191,Tiruchirappalli (West),Tiruchirappalli,Tamil Nadu,10.804973,78.6870296,,0,4
+192,Ambasamudram,Tirunelveli,Tamil Nadu,8.7086699,77.3455507,UA,58485,2
+193,Nanguneri,Tirunelveli,Tamil Nadu,8.50373935,77.63276584,TP,6758,4
+194,Palayamkottai,Tirunelveli,Tamil Nadu,8.719652,77.76443244,TP,13300,4
+195,Radhapuram,Tirunelveli,Tamil Nadu,8.2875352,77.64101426,,0,4
+196,Tirunelveli,Tirunelveli,Tamil Nadu,8.7012203,77.5792694,UA,433352,1
+197,Ambur,Tirupattur,Tamil Nadu,12.7929067,78.69991683,M,99624,2
+198,Jolarpet,Tirupattur,Tamil Nadu,12.5643214,78.5797192,TP,27167,4
+199,Tirupattur,Tirupattur,Tamil Nadu,10.1095888,78.6014428,M,60876,2
+200,Vaniyambadi,Tirupattur,Tamil Nadu,12.61008175,78.75987014,UA,103950,1
+201,Avanashi,Tiruppur,Tamil Nadu,11.23051845,77.26500903,,0,4
+202,Madathukulam,Tiruppur,Tamil Nadu,10.62439365,77.35233042,TP,20352,4
+203,Palladam,Tiruppur,Tamil Nadu,10.9708115,77.28172617,TP,30016,4
+204,Tiruppur (North),Tiruppur,Tamil Nadu,11.1066254,77.3427939,UA,550826,1
+205,Tiruppur (South),Tiruppur,Tamil Nadu,11.02532395,77.42445081,,0,4
+206,Udumalaipettai,Tiruppur,Tamil Nadu,10.43338175,77.18551348,M,59668,2
+207,Dharapuram,Tiruppur,Tamil Nadu,10.75772065,77.54621077,M,64984,2
+208,Kangayam,Tiruppur,Tamil Nadu,11.0967988,77.3622311,TP,28258,4
+209,Arani,Tiruvanamalai,Tamil Nadu,12.68622945,79.29924436,M,60815,2
+210,Chengam,Tiruvanamalai,Tamil Nadu,12.3502311,78.87679642,TP,23223,4
+211,Cheyyar,Tiruvanamalai,Tamil Nadu,12.6410921,79.5167547,,0,4
+212,Kalasapakkam,Tiruvanamalai,Tamil Nadu,12.4955349,78.95221929,,0,4
+213,Kilpennathur,Tiruvanamalai,Tamil Nadu,12.21772345,79.18790451,TP,12468,4
+214,Polur,Tiruvanamalai,Tamil Nadu,12.59376885,79.13853421,TP,25505,4
+215,Tiruvannamalai,Tiruvanamalai,Tamil Nadu,12.22721295,79.07015555,M,130567,1
+216,Vandavasi,Tiruvanamalai,Tamil Nadu,12.47006965,79.59517139,M,29610,4
+217,Anaikattu,Vellore,Tamil Nadu,12.88037802,78.98713917,,0,4
+218,Gudiyattam,Vellore,Tamil Nadu,12.9485676,78.8705336,UA,100115,1
+219,K.V.Kuppam,Vellore,Tamil Nadu,12.88272834,79.07501903,,0,4
+220,Katpadi,Vellore,Tamil Nadu,13.0431189,79.24190441,,0,4
+221,Vellore,Vellore,Tamil Nadu,12.7948109,79.0006411,UA,386746,1
+222,Mailam,Viluppuram,Tamil Nadu,12.1275479,79.6185988,,0,4
+223,Tindivanam,Viluppuram,Tamil Nadu,12.2131306,79.63221425,M,67737,2
+224,Gingee,Viluppuram,Tamil Nadu,12.47006965,79.59517139,TP,21251,4
+225,Vanur,Viluppuram,Tamil Nadu,12.05384245,79.71786251,,0,4
+226,Vikravandi,Viluppuram,Tamil Nadu,12.0473092,79.44756873,TP,10145,4
+227,Viluppuram,Viluppuram,Tamil Nadu,11.9137874,79.50789298,M,95455,2
+228,Aruppukkottai,Virudhunagar,Tamil Nadu,9.43599075,78.12022647,M,84029,2
+229,Rajapalayam,Virudhunagar,Tamil Nadu,9.4031584,77.51826437,M,122307,1
+230,Sattur,Virudhunagar,Tamil Nadu,9.32267605,77.94184646,M,31443,4
+231,Sivakasi,Virudhunagar,Tamil Nadu,9.4669895,77.77597857,UA,121358,1
+232,Srivilliputhur,Virudhunagar,Tamil Nadu,9.5601364,77.60912867,M,73183,2
+233,Tiruchuli,Virudhunagar,Tamil Nadu,9.61205805,78.32149696,,0,4
+234,Virudhunagar,Virudhunagar,Tamil Nadu,9.5208936,77.8784564,M,72081,2
+1,Alappuzha,Alappuzha,Kerala,9.5006651,76.41241429,UA,282675,1
+2,Ambalappuzha,Alappuzha,Kerala,9.4506327,76.3458159,,0,4
+3,Aroor,Alappuzha,Kerala,9.8783108,76.3038826,,0,4
+4,Chengannur,Alappuzha,Kerala,9.29127805,76.5938331,M,25397,4
+5,Cherthala,Alappuzha,Kerala,9.740204,76.33246716,UA,141558,1
+6,Haripad,Alappuzha,Kerala,9.2777001,76.4631904,,0,4
+7,Kayamkulam,Alappuzha,Kerala,9.172188,76.5008685,M,68585,2
+8,Kuttanad,Alappuzha,Kerala,9.4507458,76.43081812,,0,4
+9,Mavelikkara,Alappuzha,Kerala,9.2090753,76.58149988,M,28439,4
+10,Kunnathur,Alappuzha,Kerala,9.070971,76.65025583,,0,4
+11,Aluva,Ernakulam,Kerala,10.17039815,76.38839449,,0,4
+12,Angamaly,Ernakulam,Kerala,10.1910284,76.3874109,,0,4
+13,Ernakulam,Ernakulam,Kerala,10.0118206,76.27692567,,0,4
+14,Kalamassery,Ernakulam,Kerala,10.0600025,76.3213096,,0,4
+15,Kochi,Ernakulam,Kerala,9.931308,76.2674136,UA,1355972,1
+16,Kothamangalam,Ernakulam,Kerala,10.13328035,76.73612209,M,37173,4
+17,Kunnathunad,Ernakulam,Kerala,10.0545523,76.47149074,,0,4
+18,Muvattupuzha,Ernakulam,Kerala,9.9269213,76.56347829,M,29246,4
+19,Paravur,Ernakulam,Kerala,8.8098891,76.6715303,M,38652,4
+20,Perumbavoor,Ernakulam,Kerala,10.1147548,76.4778152,M,26547,4
+21,Piravom,Ernakulam,Kerala,9.8733689,76.4922683,,0,4
+22,Thrikkakara,Ernakulam,Kerala,10.01083335,76.33090153,,0,4
+23,Thripunithura,Ernakulam,Kerala,10.0181045,76.3103806,,0,4
+24,Vypeen,Ernakulam,Kerala,9.9727427,76.24064122,,0,4
+25,Devikulam,Idukki,Kerala,10.154704,77.09017408,,0,4
+26,Idukki,idukki,Kerala,9.8497872,76.9797914,TS,11347,4
+27,Peerumade,Idukki,Kerala,9.5228616,77.14364759,,0,4
+28,Thodupuzha,Idukki,Kerala,9.88303525,76.76444289,M,46246,4
+29,Udumbanchola,Idukki,Kerala,9.86018055,77.17081702,,0,4
+30,Azhikode,Kannur,Kerala,11.9264746,75.32314059,,0,4
+31,Dharmadam,Kannur,Kerala,11.7787174,75.4632527,,0,4
+32,Irikkur,Kannur,Kerala,11.99208175,75.52641697,,0,4
+33,Kalliasseri,Kannur,Kerala,11.9738162,75.3584432,CT,28068,4
+34,Kannur,Kannur,Kerala,11.8762254,75.3738043,UA,498207,1
+35,Kuthuparamba,Kannur,Kerala,11.8304529,75.5336446,,0,4
+36,Mattannur,Kannur,Kerala,11.9307557,75.5712639,M,44313,4
+37,Payyannur,Kannur,Kerala,12.11875635,75.23738056,M,68734,2
+38,Peravoor,Kannur,Kerala,11.901352,75.7314409,,0,4
+39,Taliparamba,Kannur,Kerala,12.0994756,75.47057357,M,67507,2
+40,Thalassery,Kannur,Kerala,11.83565105,75.64490544,,0,4
+41,Vengara,Kannur,Kerala,11.0515646,75.9857052,,0,4
+42,Kanhangad,Kasaragod,Kerala,12.2906245,75.10738566,UA,129367,1
+43,Kasaragod,Kasaragod,Kerala,12.5035635,74.990834,UA,75968,2
+44,Manjeshwar,Kasaragod,Kerala,12.71994628,74.89454856,CT,8675,4
+45,Trikaripur,Kasaragod,Kerala,12.1429432,75.1755366,,0,4
+46,Udma,Kasaragod,Kerala,12.45001045,75.01845518,CT,8139,4
+47,Chadayamangalam,Kollam,Kerala,8.8719144,76.8691239,,0,4
+48,Chathannoor,Kollam,Kerala,8.8640806,76.7142084,,0,4
+49,Chavara,Kollam,Kerala,8.975395,76.5348376,,0,4
+50,Eravipuram,Kollam,Kerala,8.8667939,76.6247345,,0,4
+51,Karunagappally,Kollam,Kerala,9.0341924,76.53677651,,0,4
+52,Kollam,Kollam,Kerala,8.8879509,76.5955013,UA,380091,1
+53,Kottarakkara,Kollam,Kerala,8.92476685,76.78752827,,0,4
+54,Kundara,Kollam,Kerala,8.9571172,76.6742044,,0,4
+55,Pathanapuram,Kollam,Kerala,9.0903758,76.89315118,,0,4
+56,Punalur,Kollam,Kerala,8.94828515,77.02168488,M,47235,4
+57,Changanassery,Kottayam,Kerala,9.48966745,76.62783425,M,51967,2
+58,Ettumanoor,Kottayam,Kerala,9.6701806,76.5577768,,0,4
+59,Kaduthuruthy,Kottayam,Kerala,9.765452,76.4921182,,0,4
+60,Kanjirappally,Kottayam,Kerala,9.5427533,76.81027711,,0,4
+61,Kottayam,Kottayam,Kerala,9.6287383,76.64553257,UA,172878,1
+62,Pala,Kottayam,Kerala,9.7130742,76.6831302,M,22640,4
+63,Poonjar,Kottayam,Kerala,9.6737595,76.8130292,,0,4
+64,Puthuppally,Kottayam,Kerala,9.5592953,76.5719376,,0,4
+65,Vaikom,Kottayam,Kerala,9.74832825,76.45722847,M,22641,4
+66,Balusseri,Kozhikode,Kerala,11.4470962,75.8302342,,0,4
+67,Beypore,Kozhikode,Kerala,11.1790668,75.8101768,,0,4
+68,Elathur,Kozhikode,Kerala,11.343605,75.7385407,,0,4
+69,Koduvally,Kozhikode,Kerala,11.3594537,75.9119868,,0,4
+70,Kozhikode North,Kozhikode,Kerala,11.2586082,75.7788735,,0,4
+71,Kozhikode South,Kozhikode,Kerala,11.2586082,75.7788735,,0,4
+72,Kunnamangalam,Kozhikode,Kerala,11.3046779,75.8785617,,0,4
+73,Kuttiadi,Kozhikode,Kerala,11.6548682,75.7543773,,0,4
+74,Nadapuram,Kozhikode,Kerala,11.6956314,75.6532131,,0,4
+75,Perambra,Kozhikode,Kerala,11.559725,75.7581231,,0,4
+76,Quilandy,Kozhikode,Kerala,11.2334626,76.0529144,M,68982,2
+77,Thiruvambadi,Kozhikode,Kerala,9.4825628,76.3361519,,0,4
+78,Vadakara,Kozhikode,Kerala,11.66665,75.70749351,UA,124083,1
+79,Vallikunnu,Kozhikode,Kerala,11.2339175,75.8644438,,0,4
+80,Ernad,Malappuram,Kerala,11.1538025,76.10860754,,0,4
+81,Kondotty,Malappuram,Kerala,11.1457203,75.9643753,,0,4
+82,Kottakkal,Malappuram,Kerala,11.0004806,76.004758,,0,4
+83,Malappuram,Malappuram,Kerala,11.10684475,76.1099551,UA,170409,1
+84,Manjeri,Malappuram,Kerala,11.1201904,76.1198016,,0,4
+85,Mankada,Malappuram,Kerala,11.0172999,76.1770367,,0,4
+86,Nilambur,Malappuram,Kerala,11.3033733,76.33758119,,0,4
+87,Perinthalmanna,Malappuram,Kerala,10.990946,76.22992369,M,44612,4
+88,Ponnani,Malappuram,Kerala,10.76458118,75.92727734,M,87495,2
+89,Tanur,Malappuram,Kerala,10.9780727,75.8815131,,0,4
+90,Thavanur,Malappuram,Kerala,11.1940141,75.9899325,,0,4
+91,Tirur,Malappuram,Kerala,10.90450625,76.00142835,M,53654,2
+92,Tirurangadi,Malappuram,Kerala,11.057755,75.94284461,,0,4
+93,Wandoor,Malappuram,Kerala,11.1957415,76.2368755,,0,4
+94,Alathur,Palakkad,Kerala,10.6128195,76.51689506,,0,4
+95,Chittur,Palakkad,Kerala,10.57611905,76.69415342,UA,67935,2
+96,Kongad,Palakkad,Kerala,10.8547658,76.522063,,0,4
+97,Malampuzha,Palakkad,Kerala,10.822772,76.6681372,,0,4
+98,Mannarkkad,Palakkad,Kerala,10.9928999,76.45686,,0,4
+99,Nemmara,Palakkad,Kerala,10.59395,76.601439,,0,4
+100,Ottappalam,Palakkad,Kerala,10.85532885,76.35642468,M,49242,4
+101,Palakkad,Palakkad,Kerala,10.78789845,76.47408711,UA,197369,1
+102,Pattambi,Palakkad,Kerala,10.81117,76.14088568,,0,4
+103,Tarur,Palakkad,Kerala,10.6731891,76.467751,,0,4
+104,Thrithala,Palakkad,Kerala,10.8032717,76.1289891,,0,4
+105,Adoor,Pathanamthitta,Kerala,9.1567934,76.75526153,M,28952,4
+106,Aranmula,Pathanamthitta,Kerala,9.32681,76.6856956,,0,4
+107,Konni,Pathanamthitta,Kerala,9.2714532,77.06085968,,0,4
+108,Ranni,Pathanamthitta,Kerala,9.3852605,76.7848789,,0,4
+109,Thiruvalla,Pathanamthitta,Kerala,9.3867448,76.5762652,M,56837,2
+110,Aruvikkara,Thiruvananthapuram,Kerala,8.5700055,77.0151445,,0,4
+111,Attingal,Thiruvananthapuram,Kerala,8.6960538,76.814869,,0,4
+112,Chirayinkeezhu,Thiruvananthapuram,Kerala,8.659587,76.7878316,,0,4
+113,Kattakkada,Thiruvananthapuram,Kerala,8.55427825,77.18556332,,0,4
+114,Kazhakoottam,Thiruvananthapuram,Kerala,8.556815,76.8727534,,0,4
+115,Kovalam,Thiruvananthapuram,Kerala,8.4004698,76.9788156,,0,4
+116,Nedumangad,Thiruvananthapuram,Kerala,8.6052249,77.0029782,M,56138,2
+117,Nemom,Thiruvananthapuram,Kerala,8.4569839,77.0001851,,0,4
+118,Neyyattinkara,Thiruvananthapuram,Kerala,8.4100639,77.0816275,M,69467,2
+119,Parassala,Thiruvananthapuram,Kerala,8.3428993,77.1547766,,0,4
+120,Thiruvananthapura,Thiruvananthapuram,Kerala,8.554968495,76.87283904,UA,889635,1
+121,Vamanapuram,Thiruvananthapuram,Kerala,8.7218833,76.8980032,,0,4
+122,Varkala,Thiruvananthapuram,Kerala,8.7342288,76.7257086,M,40728,4
+123,Vattiyoorkavu,Thiruvananthapuram,Kerala,8.5296582,76.98829672,,0,4
+124,Shornur,Thrissur,Kerala,10.7371278,76.27906398,M,42029,4
+125,Chalakudy,Thrissur,Kerala,10.3041869,76.3371037,M,48380,4
+126,Chelakkara,Thrissur,Kerala,10.6942894,76.3395838,,0,4
+127,Guruvayoor,Thrissur,Kerala,10.59592045,76.05000963,UA,138681,1
+128,Irinjalakuda,Thrissur,Kerala,10.3404997,76.2808307,,0,4
+129,Kaipamangalam,Thrissur,Kerala,10.3290184,76.13773356,,0,4
+130,Kodungallur,Thrissur,Kerala,10.2902062,76.15264918,UA,94883,2
+131,Kunnamkulam,Thrissur,Kerala,10.6548692,76.09587816,M,51592,2
+132,Manalur,Thrissur,Kerala,10.7470642,76.62708786,,0,4
+133,Nattika,Thrissur,Kerala,10.423707,76.09676949,,0,4
+134,Ollur,Thrissur,Kerala,10.4740055,76.23782,,0,4
+135,Puthukkad,Thrissur,Kerala,10.4190549,76.2703319,CT,12501,4
+136,Thrissur,Thrissur,Kerala,10.5256264,76.2132542,UA,330122,1
+137,Wadakkanchery,Thrissur,Kerala,10.64852755,76.2360514,,0,4
+138,Kalpetta,wayanad,Kerala,11.6136614,76.0851692,M,29612,4
+139,Mananthavady,wayanad,Kerala,11.82987555,75.94189342,,0,4
+140,Sulthanbathery,wayanad,Kerala,11.71200665,76.25436676,,0,4
+1,Raptadu,Anantapur,Andhra Pradesh,14.551285,77.59054044,,0,4
+2,Anantapur Urban,Anantapur,Andhra Pradesh,14.68188806,77.59317326,UA,243143,1
+3,Dharmavaram,Anantapur,Andhra Pradesh,14.42234715,77.72006887,M,103357,1
+4,Guntakal,Anantapur,Andhra Pradesh,15.11965065,77.45529027,M,117103,1
+5,Hindupur,Anantapur,Andhra Pradesh,13.826383,77.4937723,M,125074,1
+6,Kadiri,Anantapur,Andhra Pradesh,14.16738855,78.14185565,M,76252,2
+7,Kalyandurg,Anantapur,Andhra Pradesh,14.54116815,77.21612163,CT,29266,4
+8,Madakasira,Anantapur,Andhra Pradesh,13.93431625,77.26406099,,0,4
+9,Penukonda,Anantapur,Andhra Pradesh,14.11968245,77.62273815,,0,4
+10,Puttaparthi,Anantapur,Andhra Pradesh,14.1064568,77.82227506,,0,4
+11,Rayadurg,Anantapur,Andhra Pradesh,14.7006174,76.8495095,M,54125,2
+12,Singanamala,Anantapur,Andhra Pradesh,14.8509937,77.7411941,,0,4
+13,Tadpatri,Anantapur,Andhra Pradesh,14.9382599,78.02786888,M,86843,2
+14,Uravakonda,Anantapur,Andhra Pradesh,14.8722142,77.26206804,CT,31856,4
+15,Satyavedu,Chittoor,Andhra Pradesh,13.43833555,79.90958175,,0,4
+16,Srikalahasti,Chittoor,Andhra Pradesh,13.7896547,79.64707713,M,70854,2
+17,Punganur,Chittoor,Andhra Pradesh,13.405603,78.55808373,NP,44314,4
+18,Tirupati,Chittoor,Andhra Pradesh,13.6316368,79.4231711,UA,303521,1
+19,Puthalapattu,Chittoor,Andhra Pradesh,13.34952695,79.09910103,,0,4
+20,Thamballapalle,Chittoor,Andhra Pradesh,13.81404415,78.41603785,CT,10950,4
+21,Pileru,Chittoor,Andhra Pradesh,13.7020601,78.9220736,,0,4
+22,Gangadhara Nellore,Chittoor,Andhra Pradesh,13.2285871,79.22778202,,0,4
+23,Nagari,Chittoor,Andhra Pradesh,13.31217355,79.59793429,CT,24372,4
+24,Kuppam,Chittoor,Andhra Pradesh,12.73137835,78.38187451,CT,18858,4
+25,Chittoor,Chittoor,Andhra Pradesh,13.1601048,79.15555062,M,152654,1
+26,Chandragiri,Chittoor,Andhra Pradesh,13.5216544,79.2276785,,0,4
+27,Palamaner,Chittoor,Andhra Pradesh,13.1515975,78.73566699,,0,4
+28,Madanapalle,Chittoor,Andhra Pradesh,13.57325965,78.47914645,UA,107449,1
+29,Kakinada City,East Godavari,Andhra Pradesh,16.9437385,82.2350607,UA,376861,1
+30,Kakinada Rural,East Godavari,Andhra Pradesh,16.99716705,82.2457999,,0,4
+31,Prathipadu,East Godavari,Andhra Pradesh,17.312718,82.25110822,,0,4
+32,Jaggampeta,East Godavari,Andhra Pradesh,17.202786,82.02951897,,0,4
+33,Peddapuram,East Godavari,Andhra Pradesh,17.09813605,82.13236973,M,45520,4
+34,Anaparthy,East Godavari,Andhra Pradesh,16.900065,81.97344813,,0,4
+35,Amalapuram,East Godavari,Andhra Pradesh,16.57950675,81.99732471,M,51444,2
+36,Pithapuram,East Godavari,Andhra Pradesh,17.1489922,82.2301886,M,50103,2
+37,Rajahmundry City,East Godavari,Andhra Pradesh,17.0050454,81.7804732,UA,413616,1
+38,Mummidivaram,East Godavari,Andhra Pradesh,16.64641145,82.11641831,,0,4
+39,Pamarru,East Godavari,Andhra Pradesh,16.73378035,82.06340174,CT,15245,4
+40,Rajanagaram,East Godavari,Andhra Pradesh,17.05183045,81.89048865,,0,4
+41,Ramachandrapuram,East Godavari,Andhra Pradesh,16.8207237,82.06252457,M,41370,4
+42,Rampachodavaram,East Godavari,Andhra Pradesh,17.4116275,81.81727737,CT,9670,4
+43,Tuni,East Godavari,Andhra Pradesh,17.3819414,82.52074178,M,50368,2
+44,Kothapeta,East Godavari,Andhra Pradesh,16.69739995,81.90761218,,0,4
+45,Razole,East Godavari,Andhra Pradesh,16.4628683,81.86157873,,0,4
+46,Rajahmundry Rural,East Godavari,Andhra Pradesh,17.0640874,81.79534027,,0,4
+47,Mandapeta,East Godavari,Andhra Pradesh,16.8968337,81.91817932,M,47638,4
+48,Tadikonda,Guntur,Andhra Pradesh,16.4198669,80.4229602,,0,4
+49,Guntur West,Guntur,Andhra Pradesh,16.2915189,80.4541588,,0,4
+50,Macherla,Guntur,Andhra Pradesh,16.4761106,79.4364146,M,49221,4
+51,Mangalagiri,Guntur,Andhra Pradesh,16.4318209,80.5688069,,0,4
+52,Narasaraopet,Guntur,Andhra Pradesh,16.2389242,80.0472879,UA,95349,2
+53,Pedakurapadu,Guntur,Andhra Pradesh,16.49191295,80.27954278,,0,4
+54,Ponnur,Guntur,Andhra Pradesh,16.0683776,80.5522462,M,57640,2
+55,Repalle,Guntur,Andhra Pradesh,16.0191748,80.8313643,M,42539,4
+56,Sattenapalle,Guntur,Andhra Pradesh,16.42140025,80.16888971,M,51404,2
+57,Tenali,Guntur,Andhra Pradesh,16.2377735,80.6464219,M,153756,1
+58,Guntur East,Guntur,Andhra Pradesh,16.26796595,80.18320762,M Corp,514461,1
+59,Chilakaluripet,Guntur,Andhra Pradesh,16.0949502,80.1658779,M,91656,2
+60,Vinukonda,Guntur,Andhra Pradesh,16.02205605,79.6644844,CT,52519,2
+61,Vemuru,Guntur,Andhra Pradesh,16.1775335,80.7427306,,0,4
+62,Nagarjuna Sagar,Guntur,Andhra Pradesh,16.495012,79.22080866,,0,4
+63,Bapatla,Guntur,Andhra Pradesh,15.9052608,80.4680501,M,68397,2
+64,Gudivada,Krishna,Andhra Pradesh,16.4329976,80.9937151,CT,7102,4
+65,Jaggayyapeta,Krishna,Andhra Pradesh,16.882983,80.07525257,,0,4
+66,Kaikalur,Krishna,Andhra Pradesh,16.55025758,81.21237487,,0,4
+67,Nandigama,Krishna,Andhra Pradesh,16.78773755,80.28883024,,0,4
+68,Nuzvid,Krishna,Andhra Pradesh,16.7907012,80.8476103,M,50354,2
+69,Pedana,Krishna,Andhra Pradesh,16.3262513,81.15164379,NP,29613,4
+70,Penamaluru,Krishna,Andhra Pradesh,16.48013405,80.69708069,,0,4
+71,Tiruvuru,Krishna,Andhra Pradesh,17.1132968,80.6107396,,0,4
+72,Vijayawada East,Krishna,Andhra Pradesh,16.5087586,80.6185102,,0,4
+73,Vijayawada West,Krishna,Andhra Pradesh,16.5087586,80.6185102,,0,4
+74,Machilipatnam,Krishna,Andhra Pradesh,16.1819393,81.1351299,M,179353,1
+75,Vijayawada Central,Krishna,Andhra Pradesh,16.5087586,80.6185102,UA,1039518,1
+76,Gannavaram,Krishna,Andhra Pradesh,16.5561295,80.7961511,,0,4
+77,Avanigadda,Krishna,Andhra Pradesh,16.0157755,80.92958521,,0,4
+78,Kurnool,Kurnool,Andhra Pradesh,15.8309251,78.0425373,UA,342973,1
+79,Allagadda,Kurnool,Andhra Pradesh,15.16514545,78.50732363,,0,4
+80,Adoni,Kurnool,Andhra Pradesh,15.6559189,77.26977367,UA,162458,1
+81,Markapuram,Prakasam,Andhra Pradesh,15.7469839,77.9361285,M,58462,2
+82,Dhone,Kurnool,Andhra Pradesh,15.37574275,77.83971513,,0,4
+83,Atmakur,Nellore,Andhra Pradesh,15.91533865,78.7084063,,0,4
+84,Yemmiganur,Kurnool,Andhra Pradesh,15.74712865,77.51206932,M,76411,2
+85,Srisailam,Kurnool,Andhra Pradesh,16.0909794,78.86563076,CT,23273,4
+86,Panyam,Kurnool,Andhra Pradesh,15.50781605,78.32049683,,0,4
+87,Nandyal,Kurnool,Andhra Pradesh,15.47537735,78.47855757,UA,157120,1
+88,Kodumur,Kurnool,Andhra Pradesh,15.67124125,77.87580044,,0,4
+89,Nandikotkur,Kurnool,Andhra Pradesh,15.87160025,78.23332183,,0,4
+90,Mantralayam,Kurnool,Andhra Pradesh,15.88036,77.38551513,,0,4
+91,Alur,Kurnool,Andhra Pradesh,15.42859565,77.26133359,,0,4
+92,Pattikonda,Kurnool,Andhra Pradesh,15.42041525,77.51593463,,0,4
+93,Banaganapalle,Kurnool,Andhra Pradesh,15.3520035,78.19358748,CT,29829,4
+94,Gudur,Nellore,Andhra Pradesh,16.2159096,81.0815906,UA,68782,2
+95,Kovur,Nellore,Andhra Pradesh,14.5196139,79.98609721,NP,39372,4
+96,Venkatagiri,Nellore,Andhra Pradesh,14.01006775,79.4850733,CT,31341,4
+97,Udayagiri,Nellore,Andhra Pradesh,14.9394153,79.31252312,,0,4
+98,Sullurpeta,Nellore,Andhra Pradesh,13.69367795,80.09953071,,0,4
+99,Sarvepalli,Nellore,Andhra Pradesh,14.2925091,79.9735549,,0,4
+100,Nellore Rural,Nellore,Andhra Pradesh,14.4493717,79.9873763,,0,4
+101,Kavali,Nellore,Andhra Pradesh,14.91098925,80.01534336,UA,85616,2
+102,Nellore City,Nellore,Andhra Pradesh,14.4493717,79.9873763,UA,404775,1
+103,Kanigiri,Prakasam,Andhra Pradesh,15.36812235,79.51569145,,0,4
+104,Kandukur,Prakasam,Andhra Pradesh,15.2250199,79.90801153,M,50326,2
+105,Giddalur,Prakasam,Andhra Pradesh,15.3784042,78.9265231,,0,4
+106,Darsi,Prakasam,Andhra Pradesh,15.73474555,79.70621512,,0,4
+107,Chirala,Prakasam,Andhra Pradesh,15.8361517,80.3636644,UA,166294,1
+108,Addanki,Prakasam,Andhra Pradesh,15.8110285,79.9737896,,0,4
+109,Ongole,Prakasam,Andhra Pradesh,15.5075545,80.06080047,UA,153829,1
+110,Parchur,Prakasam,Andhra Pradesh,15.96472444,80.27387414,,0,4
+111,Santhanuthalapadu,Prakasam,Andhra Pradesh,15.5400343,79.943918,,0,4
+112,Yerragondapalem,Prakasam,Andhra Pradesh,16.00069845,79.29013875,,0,4
+113,Kondapi,Prakasam,Andhra Pradesh,15.4157814,79.83172551,,0,4
+114,Etcherla,Srikakulam,Andhra Pradesh,18.24265955,83.86497339,,0,4
+115,Ichchapuram,Srikakulam,Andhra Pradesh,19.1040031,84.66680576,NP,32662,4
+116,Narasannapeta,Srikakulam,Andhra Pradesh,18.4132716,84.00739667,,0,4
+117,Palakonda,Srikakulam,Andhra Pradesh,18.62733595,83.74086926,,0,4
+118,Palasa,Srikakulam,Andhra Pradesh,18.7980169,84.42458948,,0,4
+119,Pathapatnam,Srikakulam,Andhra Pradesh,18.7110086,84.08853382,,0,4
+120,Rajam,Srikakulam,Andhra Pradesh,18.8576168,84.564794,CT,23424,4
+121,Tekkali,Srikakulam,Andhra Pradesh,18.2025413,83.3939479,,0,4
+122,Srikakulam,Srikakulam,Andhra Pradesh,18.32002205,83.9160772,UA,117320,1
+123,Amadalavalasa,Srikakulam,Andhra Pradesh,18.40097425,83.87434111,NP,37931,4
+124,Madugula,Visakhapatnam,Andhra Pradesh,17.88263755,82.78440764,,0,4
+125,Narsipatnam,Visakhapatnam,Andhra Pradesh,17.64070945,82.61598715,CT,32623,4
+126,Pendurthi,Visakhapatnam,Andhra Pradesh,17.80066925,83.20103748,,0,4
+127,Gajuwaka,Visakhapatnam,Andhra Pradesh,17.6811126,83.18283163,,0,4
+128,Chodavaram,Visakhapatnam,Andhra Pradesh,17.8181976,82.97176209,,0,4
+129,Bhimili,Visakhapatnam,Andhra Pradesh,17.8910672,83.45287789,,0,4
+130,Araku Valley,Visakhapatnam,Andhra Pradesh,18.29300925,82.90342899,,0,4
+131,Anakapalle,Visakhapatnam,Andhra Pradesh,17.68897,83.003476,M,85486,2
+132,Visakhapatnam East,Visakhapatnam,Andhra Pradesh,17.89937045,82.56422006,UA,1345938,1
+133,Visakhapatnam North,Visakhapatnam,Andhra Pradesh,17.7231276,83.3012842,,0,4
+134,Visakhapatnam South,Visakhapatnam,Andhra Pradesh,17.7231276,83.3012842,,0,4
+135,Visakhapatnam West,Visakhapatnam,Andhra Pradesh,17.7231276,83.3012842,,0,4
+136,Yelamanchili,Visakhapatnam,Andhra Pradesh,17.5339769,82.81813504,,0,4
+137,Paderu,Visakhapatnam,Andhra Pradesh,18.0453386,82.74763088,,0,4
+138,Payakaraopet,Visakhapatnam,Andhra Pradesh,17.36474504,82.55775234,,0,4
+139,Bobbili,Vizianagaram,Andhra Pradesh,18.5748202,83.3522594,M,50096,2
+140,Cheepurupalle,Vizianagaram,Andhra Pradesh,18.2688448,83.62901539,,0,4
+141,Gajapathinagaram,Vizianagaram,Andhra Pradesh,18.3004453,83.35186152,CT,5282,4
+142,Kurupam,Vizianagaram,Andhra Pradesh,18.8818638,83.64124945,,0,4
+143,Nellimarla,Vizianagaram,Andhra Pradesh,18.1839779,83.57256756,CT,19373,4
+144,Parvathipuram,Vizianagaram,Andhra Pradesh,18.7649439,83.34458763,M,49714,4
+145,Salur,Vizianagaram,Andhra Pradesh,18.5177,83.2081,M,48354,4
+146,Vizianagaram,Vizianagaram,Andhra Pradesh,18.1120819,83.40521962,UA,195801,1
+147,Srungavarapukota,Vizianagaram,Andhra Pradesh,18.12305375,83.18322609,,0,4
+148,Tanuku,West Godavari,Andhra Pradesh,16.75414,81.685839,M,72970,2
+149,Achanta,West Godavari,Andhra Pradesh,16.5825242,81.81968875,,0,4
+150,Tadepalligudem,West Godavari,Andhra Pradesh,16.8765865,81.54514499,M,102622,1
+151,Polavaram,West Godavari,Andhra Pradesh,17.3246253,81.57670285,,0,4
+152,Palacole,West Godavari,Andhra Pradesh,16.53137155,81.68553062,UA,76308,2
+153,Nidadavole,West Godavari,Andhra Pradesh,16.9065631,81.65423521,M,43143,4
+154,Narasapuram,West Godavari,Andhra Pradesh,16.4386275,81.7015011,M,58604,2
+155,Kovvur,West Godavari,Andhra Pradesh,17.01796845,81.71012108,,0,4
+156,Gopalapuram,West Godavari,Andhra Pradesh,17.1340648,81.53082657,,0,4
+157,Eluru,West Godavari,Andhra Pradesh,16.67613485,81.17086824,UA,215804,1
+158,Denduluru,West Godavari,Andhra Pradesh,16.7813691,81.17082874,,0,4
+159,Bhimavaram,West Godavari,Andhra Pradesh,16.5427689,81.527344,UA,142064,1
+160,Chintalapudi,West Godavari,Andhra Pradesh,17.09762845,80.96412691,,0,4
+161,Ungutur,West Godavari,Andhra Pradesh,16.82421848,81.42289643,,0,4
+162,Undi,West Godavari,Andhra Pradesh,16.61235165,81.46363874,,0,4
+163,Badvel,YSR,Andhra Pradesh,14.71619875,79.04053537,,0,4
+164,Jammalamadugu,YSR,Andhra Pradesh,14.82604155,78.39903878,CT,40514,4
+165,Kadapa,YSR,Andhra Pradesh,14.4752936,78.8216861,,0,4
+166,Kamalapuram,YSR,Andhra Pradesh,14.57322085,78.61471939,,0,4
+167,Kodur,YSR,Andhra Pradesh,13.91861365,79.35253491,,0,4
+168,Mydukur,YSR,Andhra Pradesh,14.857569,78.77090445,,0,4
+169,Proddatur,YSR,Andhra Pradesh,14.7522659,78.5485518,M,150309,1
+170,Pulivendla,YSR,Andhra Pradesh,14.40737325,78.19656269,,0,4
+171,Rajampet,YSR,Andhra Pradesh,14.200322,79.11028622,,0,4
+172,Rayachoti,YSR,Andhra Pradesh,14.0629248,78.71843326,CT,72297,2
+173,Gurajala,Guntur,Andhra Pradesh,18.18702537,83.00493251,,0,4
+174,Mylavaram,Krishna,Andhra Pradesh,14.94449475,78.27089906,,0,4
+1,Adilabad,Adilabad,Telangana,19.68085183,78.53651696,UA,149403,1
+2,Boath,Adilabad,Telangana,19.34489792,78.31825453,,0,4
+3,Bhadrachalam,Bhadradri Kothagudem,Telangana,17.66708016,80.88921897,CT,4265,4
+4,Kothagudem,Bhadradri Kothagudem,Telangana,17.6090756,82.4708504,UA,105266,1
+5,Yellandu,Bhadradri Kothagudem,Telangana,17.5915639,80.3216885,NP,42214,4
+6,Amberpet,Hyderabad,Telangana,17.3729132,78.5011143,,0,4
+7,Bahadurpura,Hyderabad,Telangana,17.35731586,78.46150097,,0,4
+8,Chandrayangutta,Hyderabad,Telangana,17.3233363,78.47886992,,0,4
+9,Charminar,Hyderabad,Telangana,17.3621763,78.4744755,,0,4
+10,Goshamahal,Hyderabad,Telangana,17.3777827,78.4700753,,0,4
+11,Jubilee Hills,Hyderabad,Telangana,17.4308362,78.4102882,,0,4
+12,Karwan,Hyderabad,Telangana,17.3800823,78.437475,,0,4
+13,Khairatabad,Hyderabad,Telangana,17.4165545,78.4592874,,0,4
+14,Malakpet,Hyderabad,Telangana,17.3729132,78.5011143,,0,4
+15,Malkajgiri,Hyderabad,Telangana,17.40180035,78.56204462,,0,4
+16,Medchal,Hyderabad,Telangana,17.40180035,78.56204462,,0,4
+17,Musheerabad,Hyderabad,Telangana,17.4268432,78.48517323,,0,4
+18,Patancheru,Hyderabad,Telangana,17.5286092,78.2674254,,0,4
+19,Sanathnagar,Hyderabad,Telangana,17.46131079,78.43639424,,0,4
+20,Secunderabad,Hyderabad,Telangana,17.4337246,78.5006827,,0,4
+21,Secunderabad Cantt. ,Hyderabad,Telangana,17.44787248,78.50062515,,0,4
+22,Serilingampally,Hyderabad,Telangana,17.46565735,78.3406724,,0,4
+23,Uppal,Hyderabad,Telangana,17.40180035,78.56204462,,0,4
+24,Yakutpura,Hyderabad,Telangana,17.3586277,78.4858046,,0,4
+25,Dharmapuri(TEL),Jagtial,Telangana,18.9473011,79.09461662,,0,4
+26,Jagtial,Jagtial,Telangana,18.7956633,78.9162397,M,85521,2
+27,Koratla,Jagtial,Telangana,18.82498852,78.71615157,M,54012,2
+28,Ghanpur (Station),Jangaon,Telangana,17.8520633,79.3766411,,0,4
+29,Jangoan,Jangaon,Telangana,17.72537711,79.15729824,NP,43996,4
+30,Palakurthi,Jangaon,Telangana,17.66131526,79.43111439,CT,6967,4
+31,Bhupalpalle,Jayashankar Bhupalpally,Telangana,18.44028483,79.86898746,,0,4
+32,Alampur,Jogulamva gadwal,Telangana,15.88397502,78.1210224,,0,4
+33,Gadwal,Jogulamva gadwal,Telangana,15.8869349,77.5345664,UA,53560,2
+34,Banswada,Kamareddy,Telangana,18.3821084,77.8763494,,0,4
+35,Jukkal,Kamareddy,Telangana,18.3595629,77.6028589,,0,4
+36,Kamareddy,Kamareddy,Telangana,18.3222091,78.3387118,M,64496,2
+37,Tandur,Vikarabad,Telangana,18.1007856,78.0756739,M,57941,2
+38,Yellareddy,Kamareddy,Telangana,18.19548793,78.0167215,,0,4
+39,Choppadandi,Karimnagar,Telangana,18.5773287,79.1675524,,0,4
+40,Huzurabad,Karimnagar,Telangana,18.2018461,79.3956971,,0,4
+41,Karimnagar,Karimnagar,Telangana,18.4346438,79.1322648,UA,218302,1
+42,Manakondur,Karimnagar,Telangana,18.4013037,79.1859734,,0,4
+43,Aswaraopeta,Khammam,Telangana,16.6849819,81.6020773,,0,4
+44,Khammam,Khammam,Telangana,17.1091033,81.0874209,UA,1986020,1
+45,Madhira,Khammam,Telangana,16.922272,80.3655535,,0,4
+46,Palair,Khammam,Telangana,46.0400235,4.1349401,,0,4
+47,Pinapaka,Khammam,Telangana,16.6587186,80.5783761,,0,4
+48,Sathupalle,Khammam,Telangana,17.21113457,80.83005792,,0,4
+49,Wyra,Khammam,Telangana,16.9365381,80.3482593,,0,4
+50,Asifabad,Kumuram bheem,Telangana,19.3593461,79.2960404,CT,19330,4
+51,Sirpur,Kumuram bheem,Telangana,19.4782361,79.5720001,,0,4
+52,Dornakal,Mahavuvabad,Telangana,17.4419208,80.1516156,,0,4
+53,Mahabubabad,Mahavuvabad,Telangana,17.595749,79.9999224,,0,4
+54,Devarkadra,Mahbubnagar,Telangana,16.6208128,77.8421581,,0,4
+55,Jadcherla,Mahbubnagar,Telangana,15.6632551,77.3765905,,0,4
+56,Kalwakurthy,Mahbubnagar,Telangana,16.6721316,78.4880729,,0,4
+57,Kollapur,Mahbubnagar,Telangana,16.1061268,78.3194833,,0,4
+58,Mahbubnagar,Mahbubnagar,Telangana,16.7434538,77.9923191,UA,139662,1
+59,Makthal,Mahbubnagar,Telangana,16.50545017,77.5100469,,0,4
+60,Nagarkurnool,Mahbubnagar,Telangana,16.6253274,78.1137747,CT,26157,4
+61,Bellampalle,Mancherial,Telangana,19.07088897,79.49099519,M,66792,2
+62,Chennur,Mancherial,Telangana,14.55641945,78.81623472,,0,4
+63,Mancherial,Mancherial,Telangana,18.8761795,79.4449696,UA,118195,1
+64,Achampet,Medak,Telangana,17.9250896,78.4049121,,0,4
+65,Andole,Medak,Telangana,17.816425,78.07538143,,0,4
+66,Chevella,Medak,Telangana,17.9376421,77.9117316,,0,4
+67,Kukatpalle,Medak,Telangana,17.910226,78.1557457,,0,4
+68,Medak,Medak,Telangana,18.05358492,78.26818697,NP,41945,4
+69,Narsapur,Medak,Telangana,16.430509,81.6856684,,0,4
+70,Devarakonda,Nalgonda,Telangana,16.7001877,78.946662,CT,27434,4
+71,Miryalaguda,Nalgonda,Telangana,16.8709882,79.5613977,UA,91359,2
+72,Munugode,Nalgonda,Telangana,17.0795326,79.0766713,,0,4
+73,Nakrekal,Nalgonda,Telangana,17.1647574,79.4274007,,0,4
+74,Nalgonda,Nalgonda,Telangana,17.0504406,79.2669235,UA,111380,1
+75,Nampally,Nalgonda,Telangana,16.8854773,78.961401,,0,4
+76,Khanapur(TEL),Nirmal,Telangana,15.639879,74.5088917,,0,4
+77,Mudhole,Nirmal,Telangana,18.9761092,77.9100425,,0,4
+78,Nirmal,Nirmal,Telangana,19.0921749,78.3488725,M,75254,2
+79,Armur,Nizamabad,Telangana,18.7876451,78.29279623,,0,4
+80,Balkonda,Nizamabad,Telangana,18.8727247,78.3357967,,0,4
+81,Bodhan,Nizamabad,Telangana,18.6536941,77.8936802,M,71520,2
+82,Manthani,Nizamabad,Telangana,18.8476511,78.2553023,,0,4
+83,Nizamabad (Rural),Nizamabad,Telangana,18.68444607,78.11472115,,0,4
+84,Nizamabad (Urban),Nizamabad,Telangana,18.66802122,78.0871695,M,288722,1
+85,Peddapalle,Peddapalli,Telangana,18.4696692,83.3414864,,0,4
+86,Ramagundam,Peddapalli,Telangana,18.7615156,79.4787848,UA,237686,1
+87,Sircilla,Rajanna sircilla,Telangana,18.3889508,78.80920089,M,65314,2
+88,Vemulawada,Rajanna Sircilla,Telangana,18.4700252,78.8654422,,0,4
+89,Ibrahimpatnam,Rangareddy,Telangana,16.6554758,80.49540233,,0,4
+90,Lal Bahadur Nagar,Rangareddy,Telangana,17.35319044,78.55214527,,0,4
+91,Maheswaram,Rangareddy,Telangana,16.6233418,81.1440217,,0,4
+92,Rajendranagar,Rangareddy,Telangana,17.3245622,78.3721516,,0,4
+93,Shadnagar,Rangareddy,Telangana,17.0671702,78.2045948,,0,4
+94,Narayankhed,Sangareddy,Telangana,18.0347921,77.7772967,,0,4
+95,Narayanpet,Sangareddy,Telangana,16.6575976,77.6308904,NP,37563,4
+96,Sangareddy,Sangareddy,Telangana,17.6155151,78.0817225,M,57113,2
+97,Zahirabad,Sangareddy,Telangana,17.68133488,77.61418085,NP,44589,4
+98,Dubbak,Siddipet,Telangana,18.1737336,78.6657035,,0,4
+99,Gajwel,Siddipet,Telangana,17.8456745,78.6828741,,0,4
+100,Husnabad,Siddipet,Telangana,18.1266495,79.2111468,,0,4
+101,Mulug,Siddipet,Telangana,17.74419051,78.62945081,,0,4
+102,Narsampet,Siddipet,Telangana,17.9678951,78.5831237,,0,4
+103,Siddipet,Siddipet,Telangana,18.1054822,78.8489571,M,61809,2
+104,Huzurnagar,Suryapet,Telangana,16.9003795,79.8745543,,0,4
+105,Kodad,Suryapet,Telangana,16.9947802,79.9749826,,0,4
+106,Suryapet,Suryapet,Telangana,17.1405328,79.6225105,UA,94585,2
+107,Thungathurthi,Suryapet,Telangana,16.69963666,79.25171599,,0,4
+108,Kodangal,Vikarabad,Telangana,17.1059881,77.6286928,,0,4
+109,Pargi,Vikarabad,Telangana,17.17644333,77.87737559,,0,4
+110,Quthbullapur,Vikarabad,Telangana,17.2356174,78.0285618,,0,4
+111,Vicarabad,Vikarabad,Telangana,17.34102007,77.89862768,NP,42410,4
+112,Wanaparthy,Wanaparthy,Telangana,16.3617799,78.0610836,NP,50114,2
+113,Parkal,Warangal,Telangana,18.1980527,79.7010375,,0,4
+114,Waradhanapet,Warangal,Telangana,17.7734944,79.57363111,,0,4
+115,Warangal East,Warangal,Telangana,17.96597454,79.60075065,UA,579216,1
+116,Warangal West,Warangal,Telangana,18.0020582,79.56624672,,0,4
+117,Alair,Yadadri Bhuvanagiri,Telangana,17.64144492,79.03845222,,0,4
+118,Bhongir,Yadadri Bhuvanagiri,Telangana,17.5172789,78.8863383,M,50407,2
+1,Yanam,Yanam,Puducherry,16.7333666,82.2145164,M,31394,4
+2,Mannadipet,Puducherry,Puducherry,11.9913435,79.6159487,,0,4
+3,Oussudu,Puducherry,Puducherry,11.95422375,79.74204477,,0,4
+4,Kalapet,Puducherry,Puducherry,12.030844,79.8648402,,0,4
+5,Lawspet,Puducherry,Puducherry,11.9546226,79.8119343,,0,4
+6,Indira Nagar,Puducherry,Puducherry,11.9398366,79.7963066,,0,4
+7,Kamraj Nagar,Puducherry,Puducherry,11.93855443,79.82283212,,0,4
+8,Muthialpet,Puducherry,Puducherry,11.9517574,79.8343629,,0,4
+9,Thattanchavady,Puducherry,Puducherry,11.9460975,79.8031159,,0,4
+10,Thirubhuvanai,Puducherry,Puducherry,11.92499825,79.64501272,,0,4
+11,Raj Bhavan,Puducherry,Puducherry,11.9342538,79.83437548,,0,4
+12,Ozhukarai,Puducherry,Puducherry,11.9230894,79.77757841,,0,4
+13,Nellithope,Puducherry,Puducherry,11.93175025,79.81048066,,0,4
+14,Kadirgamam,Puducherry,Puducherry,11.9392139,79.79539549,,0,4
+15,Orleampeth,Puducherry,Puducherry,11.93129055,79.81543485,,0,4
+16,Villianur,Puducherry,Puducherry,11.9132643,79.7550761,,0,4
+17,Oupalam,Puducherry,Puducherry,11.92120975,79.8252018,,0,4
+18,Mudaliarpet,Puducherry,Puducherry,11.9178044,79.8119484,,0,4
+19,Ariankuppam,Puducherry,Puducherry,11.89375613,79.80627694,,0,4
+20,Mangalam,Puducherry,Puducherry,11.8722078,79.6044038,,0,4
+21,Manavely,Puducherry,Puducherry,11.91685683,79.77446974,,0,4
+22,Nettapakkam,Puducherry,Puducherry,11.86496925,79.63337545,,0,4
+23,Embalam,Puducherry,Puducherry,11.8646335,79.7534684,,0,4
+24,Mahe,Mahe,Puducherry,11.7021978,75.5364701,M,36828,4
+25,Bahour,Puducherry,Puducherry,11.805691,79.7426965,,0,4
+26,Nedungadu,Karaika,Puducherry,10.972939,79.7701835,,0,4
+27,Karaikal North,Karaika,Puducherry,10.91571,79.8375761,M,74438,2
+28,Thirunallar,Karaika,Puducherry,10.9260133,79.7930384,,0,4
+29,Karaikal South,Karaika,Puducherry,10.91571,79.8375761,,0,4
+30,Neravy- T.R. Pattin,Karaika,Puducherry,10.87048738,79.83148045,,0,4
