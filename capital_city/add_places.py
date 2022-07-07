@@ -3,7 +3,7 @@ import pandas as pd
 #create data frame for added places
 def Create_Data_Frame():
     lis=pd.DataFrame(columns=['city'])
-    lis.to_csv('./File.lis.csv',index=False)
+    lis.to_csv('./File/lis.csv',index=False)
 
 lis=pd.read_csv('./File/lis.csv')
 
