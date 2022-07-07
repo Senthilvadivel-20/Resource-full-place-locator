@@ -9,7 +9,7 @@ from capital_city.marker import map_marker
 
 
 
-df=pd.read_csv('.\File\class.csv')
+df=pd.read_csv('./File/class.csv')
 
 lis=[]
 
@@ -25,7 +25,7 @@ def first_add(request):
     place=request.GET['Place']
     add_places.add_place(place)
     lis=add_places.get_city()
-    print(lis)
+    # print(lis)
     map=map_generator_for_lis.map_generator(lis)
     return render(request,'add.html',{'lis':lis,'map':map}) 
 

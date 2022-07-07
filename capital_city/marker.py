@@ -3,7 +3,7 @@ from geopy import distance
 import folium
 from capital_city import map_generator_for_lis
 
-df=pd.read_csv('.\File\class.csv')
+df=pd.read_csv('./File/class.csv')
 
 
 #decide how many cities will suggest
@@ -63,7 +63,7 @@ def map_marker(lis):
     capital=cap_df['Constituency'].to_list()[0]
     capital=[capital]
 
-    air=pd.read_csv('.\File\Airport.csv')
+    air=pd.read_csv('./File/Airport.csv')
     port_name=air['Name'].to_list()
 
     port=pd.DataFrame(index=port_name,columns=capital)
