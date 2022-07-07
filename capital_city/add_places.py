@@ -1,11 +1,16 @@
 import pandas as pd
 
+lis=pd.read_csv('./File/lis.csv')
+
+
+
 #create data frame for added places
 def Create_Data_Frame():
+    global lis
     lis=pd.DataFrame(columns=['city'])
     lis.to_csv('./File/lis.csv',index=False)
 
-lis=pd.read_csv('./File/lis.csv')
+
 
 
 #Add new place in new row
@@ -26,8 +31,8 @@ def get_city():
     liss=list(liss)
     return liss
 
+
+
 #delete added places
 def delete_city():
     lis.drop('city',inplace=True,axis=1)
-
-

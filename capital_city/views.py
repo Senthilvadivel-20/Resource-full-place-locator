@@ -24,8 +24,8 @@ def home(request):
 def first_add(request):
     place=request.GET['Place']
     add_places.add_place(place)
-    lis=add_places.get_city()
-    # print(lis)
+    # lis=add_places.get_city()
+    lis = pd.read_csv('./File/lis.csv')['city'].unique()
     map=map_generator_for_lis.map_generator(lis)
     return render(request,'add.html',{'lis':lis,'map':map}) 
 
